@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/1Jothi/react-flipkart/static/css/main.f96f07a4.css",
+    "main.js": "/1Jothi/react-flipkart/static/js/main.6043c6cd.js",
+    "static/js/787.0dc48e5a.chunk.js": "/1Jothi/react-flipkart/static/js/787.0dc48e5a.chunk.js",
+    "static/media/5.png": "/1Jothi/react-flipkart/static/media/5.9b4b3f6dd15210036e28.png",
+    "static/media/1.png": "/1Jothi/react-flipkart/static/media/1.e5ee162e07aab571d70e.png",
+    "index.html": "/1Jothi/react-flipkart/index.html",
+    "main.f96f07a4.css.map": "/1Jothi/react-flipkart/static/css/main.f96f07a4.css.map",
+    "main.6043c6cd.js.map": "/1Jothi/react-flipkart/static/js/main.6043c6cd.js.map",
+    "787.0dc48e5a.chunk.js.map": "/1Jothi/react-flipkart/static/js/787.0dc48e5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.6043c6cd.js"
+  ]
+}
